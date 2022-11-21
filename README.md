@@ -1,4 +1,4 @@
-<h2> <img src="https://user-images.githubusercontent.com/65858180/137293079-2440dbff-e887-4b1d-802c-49d49dcfd664.gif" width="30" /> Hi,There! <img src="https://user-images.githubusercontent.com/65858180/137293369-94c631b6-8a17-4256-927a-070da186734c.gif" width="30" /> I Am Ahmad fathir </h2>
+<h2> <img src="https://github.com/AhmadFathir/AhmadFathir/blob/main/Naoto%20Kurogane.gif" /> Hi,There! I Am Ahmad fathir </h2>
 
 I am currently studying Informatic engineering at Universitas muhammadiyah Makassar, with a focus on System engineering. I am also studying at [COCONUT](https://Coconut.or.id).
 
