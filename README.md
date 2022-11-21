@@ -1,4 +1,4 @@
-<h2> <img src="https://github.com/AhmadFathir/AhmadFathir/blob/main/gif/Ragna%20the%20Bloodedge%20(BlazBlue)%20GIF%20Animations%20(1).gif" width="60" />
+<h2>
 Hi,There! I Am Ahmad fathir 
 <img src="https://github.com/AhmadFathir/AhmadFathir/blob/main/gif/Ragna%20the%20Bloodedge%20(BlazBlue)%20GIF%20Animations%20(5).gif" width="60"/></h2> 
 
