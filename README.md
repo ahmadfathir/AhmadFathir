@@ -1,4 +1,4 @@
-<h2> <img src="[https://pin.it/4bPwyLA](https://github.com/AhmadFathir/AhmadFathir/blob/main/Ragna%20the%20Bloodedge%20(BlazBlue)%20GIF%20Animations%20(1).gif)" width="60" /> Hi,There! I Am Ahmad fathir </h2>
+<h2> <img src="https://github.com/AhmadFathir/AhmadFathir/blob/main/Ragna%20the%20Bloodedge%20(BlazBlue)%20GIF%20Animations%20(1).gif" width="60" /> Hi,There! I Am Ahmad fathir </h2>
 
 I am currently studying Informatic engineering at Universitas muhammadiyah Makassar, with a focus on System engineering. I am also studying at [COCONUT](https://Coconut.or.id).
 
