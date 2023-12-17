@@ -1,14 +1,11 @@
-<h2>
-Hi,There! I Am Ahmad fathir 
-<img src="https://github.com/AhmadFathir/AhmadFathir/blob/main/gif/Ragna%20the%20Bloodedge%20(BlazBlue)%20GIF%20Animations%20(5).gif" width="60"/></h2>
+<h2> <img src="https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif" width="1000" /> 
+<br> <img src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif" width="50" center > Hi,There!  I Am FATHIR<img src="https://miro.medium.com/v2/resize:fit:1000/1*ZXQifyIny_o2bFmz1BBz3A.gif" width="30" /> </h2>
 
-I am currently studying Informatic engineering at Universitas muhammadiyah Makassar, with a focus on Informatic engineering.
+Hello my name is Fathir, I am from Indonesia, just contact me via Telegram or Instagram,
+Welcome to my github.
+
+<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif">
 
 - 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
 - 🌱 I’m currently learning new things
-- 👯 I’m looking to collaborate on Opensourced Projects
 - 📫 How to reach me: [Instagram](https://www.instagram.com/ahmadfathir19/)
-- I am a former candidate member at [Coconut](https://Coconut.or.id) batch 013
-<hr>
-<center><img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif"/></center>
-<hr>
