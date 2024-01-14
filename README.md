@@ -1,5 +1,5 @@
-
-<br> <img src="[https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif](https://octodex.github.com/privateinvestocat/)" width="50" center > Hi,There!  I Am FATHIR<img src="https://miro.medium.com/v2/resize:fit:1000/1*ZXQifyIny_o2bFmz1BBz3A.gif" width="30" /> </h2>
+<h2> <img src="" width="1000" /> 
+<br> <img src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif" width="50" center > Hi,There!  I Am FATHIR<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" /> </h2>
 
 Hello my name is Fathir, I am from Indonesia, just contact me via Telegram or Instagram,
 Welcome to my github.
